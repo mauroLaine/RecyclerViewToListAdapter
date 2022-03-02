@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RecyclerViewToListAdapter</string>
+    <string name="simple_rv">Simple Recycler View</string>
+    <string name="protected_rv">Protected Recycler View</string>
+    <string name="list_adapter">List Adapter</string>
+    <string name="list_adapter_data_binding">List Adapter + Data Binding</string>
 </resources>
